@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeb18593-1268-4c30-9912-9a1fdc83b39d" name="Default" comment="workspace">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="eeb18593-1268-4c30-9912-9a1fdc83b39d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -323,6 +322,14 @@
       <updated>1512076584419</updated>
       <workItem from="1512076585572" duration="82000" />
     </task>
+    <task id="LOCAL-00001" summary="Chapter 2">
+      <created>1512148138672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1512148138672</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -388,7 +395,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Chapter 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
