@@ -1,4 +1,4 @@
-public class OperationsExercises {
+public class ClassifyNumber {
 
 	// 1. Write a method isEven, that takes an int as a parameter and returns true
 	// if the int is even, false if it is odd.

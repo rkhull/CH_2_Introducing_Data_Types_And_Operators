@@ -1,4 +1,5 @@
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
@@ -8,24 +9,20 @@ import org.junit.jupiter.api.Test;
 
 public class InitializingVariablesTest {
 
-	private ByteArrayOutputStream outContent = new ByteArrayOutputStream();
 
-	@BeforeEach
-	public void setUpStream() {
-		System.setOut(new PrintStream(outContent));
-	}
+//	@Test
+//	private void returnStringTest() {
+//		assertTrue(InitializingVariables.returnString().getClass().equals(String.class));
+//	}
 
-	@AfterEach
-	public void cleanupStreams() {
-		System.setOut(null);
-	}
 
-	/*
-	@Test
-	public void sayHappyBirthdayTest() {
-		InitializingVariables.sayHappyBirthday();
-		assertEquals("HAPPY BIRTHDAY", outContent.toString().replace("\r\n", ""));
-	}
-	*/
+//	@Test
+//	private void returnLongTest() {
+//		Object o = InitializingVariables.returnLong();
+//		assertTrue(o.getClass().equals(Long.class));
+//	}
+
+	//TODO Create unit test for returnCharacter
+
 
 }

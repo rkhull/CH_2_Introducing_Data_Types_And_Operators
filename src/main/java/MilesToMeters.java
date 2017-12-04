@@ -1,4 +1,4 @@
-public class PrimitiveDataTypes {
+public class MilesToMeters {
 
 	/*
 	 * 1.

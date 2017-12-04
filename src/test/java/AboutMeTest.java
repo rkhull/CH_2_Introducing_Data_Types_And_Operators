@@ -7,7 +7,7 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-public class EscapeCharactersTest {
+public class AboutMeTest {
 
 	private ByteArrayOutputStream outContent = new ByteArrayOutputStream();
 
@@ -21,9 +21,9 @@ public class EscapeCharactersTest {
 		System.setOut(null);
 	}
 
-	@Test
-	public void escapeCharactersTest() {
-		EscapeCharacters.whoAmI();
-		assertEquals("Case Webb\n23\nPrefer Not to Answer", outContent.toString());
-	}
+//	@Test
+//	public void escapeCharactersTest() {
+//		AboutMe.whoAmI();
+//		assertEquals("Case Webb\n23\nPrefer Not to Answer", outContent.toString());
+//	}
 }
