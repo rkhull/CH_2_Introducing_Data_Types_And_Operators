@@ -1,4 +1,4 @@
-public class EscapeCharacters {
+public class AboutMe {
 
 	/*
 	 * Complete the method called whoAmI() that uses one println() statement
@@ -13,9 +13,5 @@ public class EscapeCharacters {
 	 * You will need to update the test in EscapeCharactersTest to match
 	 * your data.
 	 */
-
-	public static void whoAmI() {
-		System.out.print("");
-	}
 
 }
