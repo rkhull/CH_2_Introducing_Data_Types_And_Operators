@@ -9,14 +9,13 @@ public class EscapeCharacters {
 	 * Case
 	 * 23
 	 * Prefer Not to Answer
+	 *
+	 * You will need to update the test in EscapeCharactersTest to match
+	 * your data.
 	 */
 
 	public static void whoAmI() {
-		System.out.println("");
+		System.out.print("");
 	}
 
-
-	public static void main(String args[]) {
-		whoAmI();
-	}
 }

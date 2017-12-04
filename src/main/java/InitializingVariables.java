@@ -1,7 +1,7 @@
 public class InitializingVariables {
 
 	/*
-	The the sayHappyBirthday() method should print out HAPPY BIRTHDAY
+	The sayHappyBirthday() method should print out HAPPY BIRTHDAY
 	by iterating through a for-loop and adding each individual character to a string
 	before printing it.
 
