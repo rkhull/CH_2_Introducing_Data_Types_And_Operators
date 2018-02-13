@@ -21,9 +21,9 @@ public class AboutMeTest {
 		System.setOut(null);
 	}
 
-//	@Test
-//	public void escapeCharactersTest() {
-//		AboutMe.whoAmI();
-//		assertEquals("Case Webb\n23\nPrefer Not to Answer", outContent.toString());
-//	}
+	@Test
+	public void escapeCharactersTest() {
+		AboutMe.whoAmI();
+		assertEquals("Rachael\n24\nFemale", outContent.toString());
+	}
 }

@@ -14,4 +14,12 @@ public class AboutMe {
 	 * your data.
 	 */
 
+	public static void main (String[] args){
+		whoAmI();
+	}
+
+	public static void whoAmI(){
+		System.out.print("Rachael\n24\nFemale");
+	}
+
 }

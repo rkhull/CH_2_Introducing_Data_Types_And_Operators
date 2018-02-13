@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
 
 public class ClassifyNumberTests {
 
-	/*
 	@Test
 	public void isEvenTest() {
 		assertTrue(ClassifyNumber.isEven(108));
@@ -25,6 +24,6 @@ public class ClassifyNumberTests {
 		assertFalse(ClassifyNumber.isEvenAndPositive(-107));
 		assertFalse(ClassifyNumber.isEvenAndPositive(0));
 	}
-	*/
+
 
 }
